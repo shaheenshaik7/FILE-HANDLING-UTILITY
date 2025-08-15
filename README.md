@@ -26,3 +26,7 @@ The main method is demonstrates these operations in sequence.This is starts with
 
 This program relies on standard Java I/O packages (java.io.*) making it highly portable and platform-independent. It can be compiled and run on any operating system with Java installed. The modular design means that individual methods could be reused or adapted in larger applications without modification.
 The FileHandling.java is a demonstrates core Java file handling concepts with clear and  structured code. At the same time it has real-world utility for small-scale file management tasks, text automation and data processing scripts. It can be developed and run in Visual Studio Code.
+
+##OUTPUT
+
+<img width="1363" height="276" alt="Image" src="https://github.com/user-attachments/assets/822b15ef-fc3d-4983-ab72-a46a840b1f00" />
