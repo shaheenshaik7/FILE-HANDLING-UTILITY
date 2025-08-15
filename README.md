@@ -1,9 +1,15 @@
 # FILE-HANDLING-UTILITY
+
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: SHAIK SHAHEEN
+
 *INTERN ID*: CT04DY655
+
 *DOMAIN*: JAVA PROGRAMMING
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 ##The FileHandling.java program is a java based utility it contains four fundamental file operations are creating,writing,reading and modifying the files.The program has been organized into separate static methods for each operation, making the code modular, reusable, and easier to maintain.This is used in real-world applications where text files are used to store configuration data, logs, or user-generated content.
@@ -19,5 +25,4 @@ Fourth operation is modifying an existing file this method is to implemented thr
 The main method is demonstrates these operations in sequence.This is starts with creating a file named Java.txt writes the string “Hello World” into it reads and displays the contents, modifies the “World” to “CodTech IT Solutions” and then reads the file again to display the updated content by calling the methods.This is a step-by-step demonstration process where the all operations are executes in a single cycle.
 
 This program relies on standard Java I/O packages (java.io.*) making it highly portable and platform-independent. It can be compiled and run on any operating system with Java installed. The modular design means that individual methods could be reused or adapted in larger applications without modification.
-
 The FileHandling.java is a demonstrates core Java file handling concepts with clear and  structured code. At the same time it has real-world utility for small-scale file management tasks, text automation and data processing scripts. It can be developed and run in Visual Studio Code.
